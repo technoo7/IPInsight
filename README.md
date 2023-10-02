@@ -32,7 +32,7 @@ Before using IPInsight, ensure you have the following prerequisites:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/IPInsight.git
+   git clone https://github.com/Technobeast7/IPInsight.git
    ```
    
 2. Navigate to the project directory:
